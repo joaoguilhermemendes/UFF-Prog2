@@ -29,8 +29,8 @@ def merge_sort(list):
     [e, f]
     [g, h]
     
-    [d, a, c, b] - left
-    [g, e, f, h] - right
+    [d, a, c, b] - left - 
+    [g, e, f, h] - right -
     
     '''
 
