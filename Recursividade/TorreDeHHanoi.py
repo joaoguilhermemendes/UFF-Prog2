@@ -1,5 +1,5 @@
 def hanoi(disc, ori, dest, aux):
-    if disc == 1:
+    if disc==1:
         print('Move disc {} from tower {} to the tower {}'.format(disc, ori, dest))
         return
 
