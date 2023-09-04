@@ -14,7 +14,7 @@ def BuscaBin(x, v, inicio, fim):
         return BuscaBin(x, v, inicio, meio-1)
     
 x = int(input())
-v = (1, 8, 12, 23, 29, 30, 35, 83)
+v = (1, 8, 12, 23, 29, 30, 35, 82)
 
 inicio=0;
 fim=7;
