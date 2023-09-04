@@ -18,7 +18,7 @@ int BuscaBin(int x, int v[], int inicio, int fim){
 }
 
 int main(){
-    int v[]={1, 8, 12, 23, 29, 30, 35, 83};
+    int v[]={1, 8, 12, 23, 29, 30, 35, 82};
     int inicio, fim, x;
     
     scanf("%d" ,&x);
