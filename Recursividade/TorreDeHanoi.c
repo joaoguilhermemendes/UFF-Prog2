@@ -2,7 +2,7 @@
 #include <stdlib.h>
  
 void hanoi(int n, char a, char b, char c) {
-    if (n == 1)
+    if (n==1)
         printf("mova disco %d de %c para %c\n", n, a, b);
     else {
         hanoi(n - 1, a, c, b);                            
