@@ -17,7 +17,7 @@ void insertionSort(int* arr, int n) {
 }
 
 int main() {
-  int arr[5] = {9, 5, 1, 4, 3};
+  int arr[5] = {9, 5, 1, 4, 3, 8};
   int n = sizeof(arr) / sizeof(arr[0]);
   
   printf("Elements after sorting:\n");
