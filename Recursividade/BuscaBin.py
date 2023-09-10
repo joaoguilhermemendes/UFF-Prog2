@@ -8,7 +8,7 @@ def BuscaBin(x, v, inicio, fim):
     if v[meio]==x:
         return meio
         
-    if v[meio]<x:
+    if v[meio] < x:
         return BuscaBin(x, v, meio+1, fim)
     if v[meio]>x:
         return BuscaBin(x, v, inicio, meio-1)
