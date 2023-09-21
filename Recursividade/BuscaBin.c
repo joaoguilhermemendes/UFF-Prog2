@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int BuscaBin(int x, int v[], int inicio, int fim){
-    //Caso Base 
+    //Caso Base
     if(inicio>fim)
         return -1;
         
