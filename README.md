@@ -2,7 +2,7 @@
 
 Programas e Material de estudo referentes à discliplina da Programação de Computadores 2.
 
-**Local** - Universidade Federal fluminense -  Rio das Ostras 
+**Local** - Universidade Federal Fluminense -  Rio das Ostras 
 
 **Professor** - Danilo Artigas
 
